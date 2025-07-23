@@ -7,6 +7,10 @@ DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 FILES_TO_SYMLINK=(
   'zshrc'
   'gitconfig'
+  'p10k.zsh'    # Adicionado
+  'profile'     # Adicionado
+  'bashrc'      # Adicionado
+  'bash_logout' # Adicionado
 )
 
 echo "Iniciando configuração dos dotfiles..."
