@@ -21,9 +21,6 @@ Estes são os comandos essenciais para configurar uma nova máquina do zero.
 git clone [https://github.com/cainxz/dotfiles.git](https://github.com/cainxz/dotfiles.git) ~/dotfiles
 
 
-
-cd ~/dotfiles && ./install.sh
-
 ###lembrete para o git
 
 git config --global user.name "Seu Nome"
