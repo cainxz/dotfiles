@@ -19,13 +19,13 @@ Estes são os comandos essenciais para configurar uma nova máquina do zero.
 ### Passo 1: Clone o Repositório
 ```bash
 git clone [https://github.com/cainxz/dotfiles.git](https://github.com/cainxz/dotfiles.git) ~/dotfiles
-
+```
 
 ###lembrete para o git
 
-git config --global user.name "Seu Nome"
+```git config --global user.name "Seu Nome"
 git config --global user.email "seu-email@exemplo.com"
-
+```
 
 ## 🛠️ Ferramentas Gerenciadas
 
