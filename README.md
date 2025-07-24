@@ -24,43 +24,19 @@ git clone [https://github.com/cainxz/dotfiles.git](https://github.com/cainxz/dot
 
 cd ~/dotfiles && ./install.sh
 
-
+###lembrete para o git
 
 git config --global user.name "Seu Nome"
 git config --global user.email "seu-email@exemplo.com"
 
 
+## 🛠️ Ferramentas Gerenciadas
+
 Atualmente, este projeto gerencia as configurações para as seguintes ferramentas:
 
-Ferramenta	Descrição	Arquivo de Configuração
-Zsh	Meu shell principal, com plugins via Oh My Zsh.	zshrc
-Powerlevel10k	Tema do prompt, responsável pelo visual e ícones.	p10k.zsh
-Git	Configurações globais de usuário e aliases.	gitconfig
-Bash	Configurações básicas para compatibilidade.	bashrc
-
-
-
-
-
-Como Funciona
-A automação é feita pelo script install.sh, que usa links simbólicos (symlinks) para conectar as configurações deste repositório aos seus locais corretos no sistema. Isso garante que eu possa editar os arquivos em um único lugar, e as mudanças se aplicam instantaneamente.
-
----
-
-**Depois de colar:**
-
-1.  Encontre a linha `![Meu Terminal](URL_DA_SUA_IMAGEM_AQUI)` e substitua `URL_DA_SUA_IMAGEM_AQUI` pelo link real da sua screenshot.
-2.  Salve o arquivo no `nano` (`Ctrl+X`, `Y`, `Enter`).
-3.  Faça o push para o GitHub com o fluxo `ga`, `gc` e `gp`.
-
-
-
-
-
-
-
-
-
-
-
-
+| Ferramenta      | Descrição                                         | Arquivo de Configuração |
+| :-------------- | :-------------------------------------------------- | :---------------------- |
+| **Zsh** | Meu shell principal, com plugins via Oh My Zsh.     | `zshrc`                 |
+| **Powerlevel10k** | Tema do prompt, responsável pelo visual e ícones. | `p10k.zsh`              |
+| **Git** | Configurações globais de usuário e aliases.       | `gitconfig`             |
+| **Bash** | Configurações básicas para compatibilidade.         | `bashrc`                |
