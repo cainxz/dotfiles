@@ -4,7 +4,7 @@
 
 Este repositório é a minha solução pessoal para um problema comum: eu nunca lembrava de todos os detalhes da minha configuração e perdia muito tempo pesquisando para fazer tudo novamente. Com este projeto, eu posso recriar meu ambiente de desenvolvimento em minutos.
 
-![Meu Terminal](<img width="1024" height="341" alt="Image" src="https://github.com/user-attachments/assets/eea3b3bb-6090-4d1e-a86d-d536eab67bd0" />)
+![Meu Terminal] <img width="1024" height="341" alt="Image" src="https://github.com/user-attachments/assets/eea3b3bb-6090-4d1e-a86d-d536eab67bd0" />
 *Este setup foi projetado e testado para **Ubuntu**, rodando no **Windows Subsystem for Linux (WSL)**.*
 
 ---
